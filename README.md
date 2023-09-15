@@ -46,16 +46,22 @@ Bienvenido a mi página!  "haKers",  <img src="https://cdn-icons-png.flaticon.co
   <tbody>
     <tr>
       <td><a href="#"><b>SecurK</b></a></td>
+	    <td><img alt="Estrellas" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Problemas" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Solicitudes de extracción" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Inicio rápido de extensión de Chrome con TypeScript y React</b></a></td>
-      <td><img alt="Estrellas" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Problemas" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Solicitudes de extracción" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td>
+<a href="#"><b>Proximo...</b></a>
+      </td>
+		  <td><img alt="Estrellas" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Problemas" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Solicitudes de extracción" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Inicio rápido de NodeJs Express TypeScript GraphQL</b></a></td>
+      <td><a href="#r"><b>En mi mente aun</b></a></td>
       <td><img alt="Estrellas" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Problemas" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
@@ -63,16 +69,13 @@ Bienvenido a mi página!  "haKers",  <img src="https://cdn-icons-png.flaticon.co
     </tr>
   </tbody>
 </table>
+
 <h3>Mis últimos artículos</h3>
 <ul>
-  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="nuevo" /> Crea tu primer contrato inteligente de Ethereum con Remix IDE</b></a><br/><i>¡Crea un chat alimentado por blockchain desde tu navegador!</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="nuevo" /> Cómo crear un README.md que se actualiza automáticamente para tu perfil de GitHub</b></a><br/><i>Un buen tutorial para dar tus primeros pasos con las acciones de GitHub</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="nuevo" /> Cómo deberías estructurar tus aplicaciones de React</b></a><br/><i>Una cuestión de gusto, seguro, pero aquí tienes un enfoque que escala.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Consejos profesionales para ayudarte a empezar con tu proyecto personal</b></a><br/><i>Comienza con bases sólidas para mantener la emoción viva...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>Cómo cuidar tu marca personal como programador</b></a><br/><i>Es más que simplemente actualizar tu currículum</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 Nuevas características que llegan con ES2020</b></a><br/><i>GlobalThis, encadenamiento opcional, campos privados en clases, el operador de fusión nulo y más</i></li>
+  <li><a href="#"><b><img src="#" width="20" alt="nuevo" /> ........</b></a><br/><i>¡!</i></li>
 </ul>
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Estocolmo!</h3>
+
+<h3>Bienvenido a <img src="https://cdn-icons-png.flaticon.com/512/5315/5315710.png" width="13"/> Argentina!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Arriba se encuentran las últimas 3 fotos publicadas por <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Actualmente, el clima es: <b> 18°C, <i>cielo despejado</i></b></br>Hoy, el sol sale a las <b>06:15</b> y se pone a las <b>19:11</b>.</p>
 <h3>Dónde encontrarme</h3>
