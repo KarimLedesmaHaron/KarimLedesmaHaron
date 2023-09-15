@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> :::K:::</h1>
+<h1> :::K:::</h1>
 
 
 Bienvenido a mi página!  "haKers",  <img src="https://cdn-icons-png.flaticon.com/512/5315/5315710.png" width="13"/> <b>Cordoba, Argentina</b>
