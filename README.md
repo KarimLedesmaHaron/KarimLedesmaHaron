@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Es bueno verte por aca.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> :::K:::</h1>
 
 
-Bienvenido a mi página! Soy Thomas, desarrollador Fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, Francia</b>, actualmente viviendo en <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Estocolmo, Suecia</b>.
+Bienvenido a mi página! Karim "K", Hakers <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Cordoba, Argentina</b>, actualmente viviendo en <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Estocolmo, Suecia</b>.
 
 <h3>Cosas con las que programo</h3>
 <p>
