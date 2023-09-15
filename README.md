@@ -76,10 +76,11 @@ Bienvenido a mi página!  "haKers",  <img src="https://cdn-icons-png.flaticon.co
 </ul>
 
 <h3>Bienvenido a <img src="https://cdn-icons-png.flaticon.com/512/5315/5315710.png" width="13"/> Argentina!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Arriba se encuentran las últimas 3 fotos publicadas por <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Actualmente, el clima es: <b> 18°C, <i>cielo despejado</i></b></br>Hoy, el sol sale a las <b>06:15</b> y se pone a las <b>19:11</b>.</p>
+<p><img width="200" src="#" /> <img width="200" src="#" /> <img width="200" src="#" /></p>
+
+<br/>Actualmente, el clima es: <b> 21°C, <i>cielo despejado</i></b></br>Hoy, el sol sale a las <b>06:15</b> y se pone a las <b>19:11</b>.</p>
 <h3>Dónde encontrarme</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/karimledesmaharon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/kharon.it" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kharon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-<p align="center">Este archivo <i>README</i> se genera cada <b>3 horas</b>!</br>Última actualización: viernes, 15 de septiembre, 14:01 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">¡Crea el tuyo propio aquí!</a></p>
+<p align="center">Este archivo <i>README</i> se genera cada <b>3 horas</b>!</br>Última actualización: viernes, 15 de septiembre, 14:01 ARG<br /></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Estrellas" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
