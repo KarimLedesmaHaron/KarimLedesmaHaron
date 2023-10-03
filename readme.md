@@ -75,10 +75,6 @@ Bienvenido a mi página!  "haKers",  <img src="https://cdn-icons-png.flaticon.co
   <li><a href="#"><b><img src="#" width="20" alt="nuevo" /> ........</b></a><br/><i>¡!</i></li>
 </ul>
 
-<h3>Bienvenido a <img src="https://cdn-icons-png.flaticon.com/512/5315/5315710.png" width="13"/> Argentina!</h3>
-<p><img width="200" src="#" /> <img width="200" src="#" /> <img width="200" src="#" /></p>
-
-<br/>Actualmente, el clima es: <b> 21°C, <i>cielo despejado</i></b></br>Hoy, el sol sale a las <b>06:15</b> y se pone a las <b>19:11</b>.</p>
 <h3>Dónde encontrarme</h3>
 <p><a href="https://github.com/karimledesmaharon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/kharon.it" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kharon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
